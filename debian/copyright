@@ -1,14 +1,21 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: uid2
-Upstream-Contact: FIX_ME upstream author
+Upstream-Contact: Marco Aurélio
 Source: https://npmjs.com/package/uid2
 
 Files: *
-Copyright: 2018 FIX_ME upstream author
-License: FIX_ME upstream license
+Copyright: 2018 Marco Aurélio
+License: MIT
 
 Files: debian/*
 Copyright: 2018 Akshay T G <akshaytg007@gmail.com>
-License: FIX_ME upstream license
+License: GPL-2+
 
-License: FIX_ME specify a license, see: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/#license-specification
+License: GPL-2+
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ On Debian systems, the complete text of the GNU General Public License 2
+ can be found in `/usr/share/common-licenses/GPL-2'.
