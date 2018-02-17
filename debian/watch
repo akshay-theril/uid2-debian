@@ -6,4 +6,4 @@ version=3
 opts=\
 dversionmangle=s/\+(debian|dfsg|ds|deb)(\.\d+)?$//,\
 filenamemangle=s/.*=// \
- http://qa.debian.org/cgi-bin/fakeupstream.cgi?upstream=npmjs/uid2 .*=uid2-(\d.*)\.(?:tgz|tar\.(?:gz|bz2|xz))
+ https://qa.debian.org/cgi-bin/fakeupstream.cgi?upstream=npmjs/uid2 .*=uid2-(\d.*)\.(?:tgz|tar\.(?:gz|bz2|xz))
