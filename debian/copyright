@@ -1,0 +1,14 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: uid2
+Upstream-Contact: FIX_ME upstream author
+Source: https://npmjs.com/package/uid2
+
+Files: *
+Copyright: 2018 FIX_ME upstream author
+License: FIX_ME upstream license
+
+Files: debian/*
+Copyright: 2018 Akshay T G <akshaytg007@gmail.com>
+License: FIX_ME upstream license
+
+License: FIX_ME specify a license, see: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/#license-specification
